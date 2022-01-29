@@ -22,6 +22,7 @@ A repository of my accumulated knowledge of data science for future reference.
   * Pivot tables
   * Data validation
   * Data visualization with Excel
+  * Misc. - Google Sheets shorcuts
 * Working with SQL
   * SQL Basics
   * Data Definition Language (DDL)
@@ -38,6 +39,7 @@ A repository of my accumulated knowledge of data science for future reference.
   * PowerBI
 * Working with Jupyter notebook / lab
   * Creating a desktop app and configurations
+  * Writing markdown files
   * Markdown shortcuts
 * Working with Python
   * Data wrangling
